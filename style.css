@@ -1,6 +1,6 @@
 
 body {
-    background-color: whitesmoke;
+    background-color: #EEEDED;
 }
 
 .page-header {
@@ -17,9 +17,21 @@ body {
 
 .body-pics {
     margin-top: 30px;
-    background-color: whitesmoke;
+    background-color: #EEEDED;
     padding-top: 50px;
     object-fit: cover;
 }
 
+.index-button {
+    background-color: #EEEDED;
+    padding-bottom: 25px;
+    font-family: 'Playfair Display', serif;
+}
 
+.fa-solid {
+    font-size: medium;
+}
+
+.menu {
+    font-family: 'Playfair Display', serif;
+}
