@@ -1,2 +1,3 @@
 # cake-website
- 
+This website features a baker out of Jackson, Tennessee. We created a website for her to feature her small business. To create this website, we created a logo for the owner to showcase on the website. We catered to the owner's customers by featuring everything the owner creates and making it easy to navigate. Once we created the customer persona, we were able to build the website with different features that specifically help our targeted customer. By using pictures that are more specifcally targeted toward the customer
+we built in our persona, we were able to make sure we could continue to add features that ultimately targeted the target customer. 
