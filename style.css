@@ -62,3 +62,11 @@ ul {
     background-color: #EEEDED;
     padding-top: 25px;
 }
+
+.car-img {
+    height: 600px;
+}
+
+.test-body {
+    font-family: 'Playfair Display', serif;
+}
