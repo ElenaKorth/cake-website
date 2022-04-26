@@ -70,3 +70,38 @@ ul {
 .test-body {
     font-family: 'Playfair Display', serif;
 }
+
+@media screen  and (max-width: 950px){
+    .car-img{
+        height: 500px;
+    }
+    .carousel{
+        width: 650px;
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+}
+
+@media screen  and (max-width: 700px){
+    .car-img{
+        height: 350px;
+        width: 500px;
+    }
+    .carousel{
+        width: 500px;
+        margin-left: 120px;
+        margin-right: 125px;
+    }
+}
+
+@media screen  and (max-width: 500px){
+    .car-img{
+        height: 250px;
+        width: 250px;
+    }
+    .carousel{
+        width: 350px;
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+}
